@@ -3,4 +3,4 @@ matplotlib
 pillow
 pandas
 numpy
-searborn
+seaborn
