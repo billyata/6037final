@@ -9,8 +9,8 @@ def contact_page():
     ### Direct Contact
     - **Email**: [claralu@gmail.com](mailto:claralu@gmail.com)
     - **Phone**: +852 1234-5678
-    - **LinkedIn**: [linkedin.com/in/Claralu](https://linkedin.com/in/Claralu)
-    - **GitHub**: [github.com/Claralu](https://github.com/Claralu)
+    - **LinkedIn**: [linkedin.com/in/Claraluxxx](https://linkedin.com/in/Claralu)
+    - **GitHub**: [github.com/Claraluxxx](https://github.com/Claralu)
     """)
     
     st.markdown("### Send Me a Message")
