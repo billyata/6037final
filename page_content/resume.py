@@ -23,8 +23,8 @@ def resume_page():
     st.markdown("""
     - **Email:** claralu@gmail.com
     - **Phone:** +852 1234-5678
-    - **LinkedIn:** [linkedin.com/in/janedoe](https://linkedin.com/in/claralu)
-    - **GitHub:** [github.com/janedoe](https://github.com/claralu)
+    - **LinkedIn:** [linkedin.com/in/claraluxxx](https://linkedin.com/in/claraluxxx)
+    - **GitHub:** [github.com/claraluxxx](https://github.com/claraluxxx)
     """)
 
     st.header("Professional Summary")
